@@ -3,7 +3,7 @@
 - ✏️ I’m currently in school for computer programming.
 - 🌱 I’m currently learning Node.js, Express.js, and MongoDB.
 
-### Technical Skills
+### Technical Skills 🔬
 - C, C++
 - HTML, CSS, JavaScript
 - SQL
