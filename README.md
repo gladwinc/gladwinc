@@ -1,6 +1,6 @@
 # Hi there, I'm Gladwin 👋
 
-- ✏️ I’m currently in school for computer programming.
+- ✏️ I’m currently in school for computer programming and analysis.
 - 🌱 I’m currently learning Node.js, Express.js, and MongoDB.
 
 ### Technical Skills 🔬
