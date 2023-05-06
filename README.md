@@ -10,5 +10,5 @@
 
 ### About Me 👨‍💻
 
-- 💼 Check out my <a href="https://gladwin.notion.site/Hi-I-m-Gladwin-2c91f87e482044478c1b62f380d8d6e4">Portfolio</a>.
+- 💼 Check out my <a href="https://gladwin.io">Portfolio</a>.
 - 📭 Contact me through [email](mailto:gchan46@myseneca.ca).
