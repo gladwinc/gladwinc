@@ -6,7 +6,7 @@
 ### Technical Skills 🔬
 - C, C++
 - HTML, CSS, JavaScript, Node.js, Express.js,
-- SQL
+- PL/SQL
 
 ### About Me 👨‍💻
 
