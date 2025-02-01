@@ -1,5 +1,8 @@
 # Hi there, I'm Gladwin 👋
 
-- 💻 Software developer specializing in full stack web development and data visualization
+## About Me
+- 💻 **Software Developer** specializing in full-stack web development and data visualization
+- 🔧 Currently building with **React**, **Python**, and **Cloud Technologies**
 
-- 📭 Contact me through [email](mailto:iamgladwin@gmail.com)
+## Contact
+- 📭 Contact me via [email](mailto:your-email@gmail.com)
