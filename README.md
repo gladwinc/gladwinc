@@ -1,5 +1,5 @@
 # Hi there, I'm Gladwin 👋
 
-- ✏️ I’m currently in school for computer programming and analysis.
+- 💻 Software developer specializing in full stack web development and data visualization
 
-- 📭 Contact me through [email](mailto:iamgladwin@gmail.com).
+- 📭 Contact me through [email](mailto:iamgladwin@gmail.com)
